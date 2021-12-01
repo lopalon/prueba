@@ -8,7 +8,8 @@
 ====== ============================ ================================
  01     git clone URL
  02     git branch DatosPersonales 
- 03     
+	+ git checkout DatosPersonales
+ 03     atom PlanVacunacion.txt
  04     
  05     
  06     
